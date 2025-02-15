@@ -1,6 +1,3 @@
-/**
- * Created by Tomasz Gabrysiak @ Infermedica on 08/02/2017.
- */
 
 import html from '../../templates/helpers';
 
